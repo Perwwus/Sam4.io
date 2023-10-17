@@ -22,3 +22,4 @@ int main() {
   cout <<"Кількість доданків = " << k << endl;
   return 0;
 }
+// std code
